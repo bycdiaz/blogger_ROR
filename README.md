@@ -22,3 +22,5 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+
+# Left off on section titled "Looking at the Routing Table"
